@@ -72,3 +72,6 @@ Identify the 5 most profitable items by total purchase value, then list (in a ta
 - Total Purchase Value
 ![Most-Profitable](images/most_profitable.png)
 
+### Contact:
+Alex Arnold: alexnarnold630@gmail.com <br>
+
